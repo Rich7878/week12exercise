@@ -1,0 +1,13 @@
+body{
+    background-color: chocolate;
+}
+
+#idOne{
+    color: white;
+    text-align: center;
+    height: 250px;
+    font-family: cursive;
+    font-size: 98px;
+    margin-top: 250px;
+    text-shadow: 5px 15px 15px black;
+}
